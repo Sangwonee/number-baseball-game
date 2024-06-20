@@ -15,8 +15,6 @@ public class NumberBaseballGame {
         for (int num : comNumbersList) {
             comString += num;
         }
-        System.out.println("String으로 변환된  랜덤숫자 = " + comString);
-
 
         System.out.println("컴퓨터가 숫자를 생성하였습니다. 답을 맞춰보세요!");
 
